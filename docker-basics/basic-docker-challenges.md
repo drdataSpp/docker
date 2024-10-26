@@ -45,6 +45,7 @@ Hello, Docker!
 ```
 
 **Your Output:**
+```
 ##Terminal 1:
 PS C:\Users\username> docker run python sleep 100
 
