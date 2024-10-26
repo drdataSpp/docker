@@ -2,8 +2,9 @@
 
 This document contains a series of beginner challenges to help you learn Docker. For each challenge, follow the task and fill in your expected output.
 
-Code Challenges Credits: https://www.perplexity.ai/
-Input: "I am starting to learn Docker and I am an absolute beginner. Can you give me some beginner coding challenges, such as pulling an image, running a container, and deleting both a container and an image? The challenges should only provide the code challenges and expected output, without revealing the answers."
+**Code Challenges Credits:** https://www.perplexity.ai/
+
+**Input:** *"I am starting to learn Docker and I am an absolute beginner. Can you give me some beginner coding challenges, such as pulling an image, running a container, and deleting both a container and an image? The challenges should only provide the code challenges and expected output, without revealing the answers."*
 
 ## Challenge 1: Pulling an Image
 
